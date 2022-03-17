@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou cursando Análise e desenvolvimento de sistemas(UFRN)
 - 🏠 Moro em Natal/RN
-- 💻 Tenho afinidade com desenvolvimento Java Web, MySQL, PostgreSQL, Kotlin, NodeJS, Arduíno, VHDL.
+- 💻 Tenho afinidade com desenvolvimento Java Web, MySQL, PostgreSQL, Kotlin, NodeJS, Arduíno, VHDL, ReactJs
 
 
  <div>
