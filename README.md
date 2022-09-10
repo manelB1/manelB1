@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou cursando Análise e desenvolvimento de sistemas(UFRN)
 - 🏠 Moro em Natal/RN
-- 💻 Java Web, MySQL, PostgreSQL, Kotlin, NodeJS, Arduíno, VHDL, ReactJs
+- 💻  NodeJS, ReactJs
 
 
  <div>
