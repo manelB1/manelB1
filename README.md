@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estou cursando Análise e desenvolvimento de sistemas(UFRN)
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas(UFRN)
 - 🏠 Moro em Natal/RN
 - 💻  NodeJS, ReactJs
 
