@@ -4,7 +4,7 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas(UFRN)
 - 🏠 Moro em Natal/RN
-- 💻  NodeJS, ReactJs
+- 💻  NodeJS, ReactJs, Python(PlayRight, Django)
 
 
  <div>
