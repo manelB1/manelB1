@@ -4,8 +4,8 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas(UFRN)
 - 🏠 Moro em Natal/RN
-- 💻  NodeJS, ReactJs, Python(PlayRight, Django)
-
+- 💻  NodeJS, ReactJs, Python(Playwright, Django, Flask, Raspagem de Dados)
+- 💻 Criação de bots automatizados e semi-automatizados
 
  <div>
   <a href="https://github.com/manelB1">
