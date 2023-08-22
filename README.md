@@ -4,7 +4,7 @@
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas(UFRN)
 - 🏠 Moro em Natal/RN
-- 💻  NodeJS, ReactJs, Python(Playwright, Django, Flask, Raspagem de Dados)
+- 💻  NodeJS, ReactJs(NextJs, VueJs), Python(Playwright, Django, Flask, Raspagem de Dados)
 - 💻 Criação de bots automatizados e semi-automatizados
 
  <div>
